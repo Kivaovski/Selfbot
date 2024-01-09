@@ -1,0 +1,55 @@
+```
+Developed by: digouet and gustavo7
+Server : discord.gg/wannacry
+versão: beta 2.0.0 
+
+[!] Estes comandos são da versão beta, todos os que estão (Off)
+[!] Vão ser provavelmente implementado no futuro.
+
+Status:
+!on: status em Online
+!off  : status em Offline.
+!dnd  : status em Não Perturbe.
+!idle : status em AFK.
+!stop : para todas as atividades
+
+Consulta:
+!ip [ip] : consulta de endereço IP. (Off)
+!cep [cep] : consulta de CEP. (Off)
+!tel [numero] : puxa os dados registrados no número, cpf, nome, cidade etc.  
+!cpf [cpf] : puxa os dados do CPF. (Off)
+!info [ping|id] : puxa o avatar da pessoa marcada, banner e informações do perfil
+
+Clear:
+!clearAmigos : remove todos os amigos.
+!clearDM : apaga todas as dms
+!clearGuildas : sai de todos os servidores.
+!clearGrupos : sai de todos os grupos.
+!purge : Apagar mensagens.
+
+Exploit:
+!hidden : deixa o final da mensagem invisível, sendo possível esconder links.
+!invert [mensagem] : inverte o lugar que aparece "editado". (Off)
+
+troll:
+!infinite  : fica aparecendo o tempo todo que você está digitando. (desativado)
+    -> motivo: fácil ban pra cloudfare
+!trava : envia um texto 10 vezes para lagar o canal. (parou de criar lag)
+
+profile:
+!stream : Status em Streaming.
+!status: Status dinamicos.
+!house  : muda o seu hypesquad, opções 1 - 3.
+
+always on:
+!call : sistema de detecção para manter 24/7 na mesma call.
+!emoji : adiciona uma reação sempre que você for marcado.
+
+utils:
+!ping : retorna o ping/latency do bot.
+!afk [seu texto] : envia um texto enquanto você está afk. (Off)
+!ceo : bio do criador.
+!help : lista de comandos.
+!suporte : servidor de suporte.
+!prefixo : Altera o prefixo para um da sua preferência.
+```
