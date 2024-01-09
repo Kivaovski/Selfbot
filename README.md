@@ -1,3 +1,3 @@
 # Selfbot multifunctions
 
-Firewall was used to prevent a flood from api
+Firewall was used to prevent the api from flooding, creating a global cooldown
